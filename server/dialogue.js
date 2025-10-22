@@ -1,6 +1,10 @@
-// dialogue.js - VERSÃO FINAL COM PAYLOAD
+// dialogue.js - VERSÃO FINAL COM A URL CORRETA
 
-const BASE_URL = 'https://whatsapp-backend-vott.onrender.com';
+// ==================================================================
+//    >>> A CORREÇÃO ESTÁ AQUI <<<
+//    Atualizamos a URL para o seu novo backend que está no ar.
+// ==================================================================
+const BASE_URL = 'https://whatsapp-backend-uql2.onrender.com'; // ← SUA URL CORRETA
 
 const dialogue = {
   START: {
