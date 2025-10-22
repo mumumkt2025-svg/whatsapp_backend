@@ -14,7 +14,7 @@ const app = express();
 const server = http.createServer(app);
 
 const PUSHPAY_API_KEY = "sua_chave_secreta_da_api_do_pushpay_aqui";
-const BASE_URL = 'https://whatsapp-backend-vott.onrender.com';
+const BASE_URL = 'https://whatsapp-backend-uql2.onrender.com/';
 
 const allowedOrigins = [
   'https://whastapps.netlify.app',
