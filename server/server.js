@@ -45,8 +45,8 @@ app.get('/generate-image-with-city', async (req, res) => {
       Jimp.read(imagePath)
     ]);
 
-    const finalX = 140;
-    const finalY = 175;
+    const finalX = 115;
+    const finalY = 105;
 
     image.print(
       font, 
