@@ -46,7 +46,7 @@ app.get('/generate-image-with-city', async (req, res) => {
     ]);
 
     const finalX = 0;
-    const finalY = 130;
+    const finalY = 1200;
 
     image.print(
       font, 
